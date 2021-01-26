@@ -1,0 +1,159 @@
+,constructor,carreras,ganadas,efectividad
+0,Brawn,17,17,100.0
+1,Toyota,138,0,0.0
+2,Renault,404,46,11.4
+3,Williams,765,114,14.9
+4,Toro Rosso,268,0,0.0
+5,Force India,211,0,0.0
+6,BMW Sauber,70,1,1.4
+7,Red Bull,301,63,20.9
+8,Ferrari,966,229,23.7
+9,McLaren,837,165,19.7
+10,Honda,92,0,0.0
+11,Super Aguri,52,0,0.0
+12,Spyker,17,0,0.0
+13,MF1,18,0,0.0
+14,Spyker MF1,4,0,0.0
+15,Sauber,388,0,0.0
+16,Jordan,241,0,0.0
+17,Minardi,337,0,0.0
+18,BAR,112,0,0.0
+19,Jaguar,81,0,0.0
+20,Arrows,297,0,0.0
+21,Prost,82,0,0.0
+22,Benetton,259,29,11.2
+23,Stewart,46,0,0.0
+24,Tyrrell,426,16,3.8
+25,Lola,120,0,0.0
+26,Ligier,332,4,1.2
+27,Footwork,95,0,0.0
+28,Forti,32,0,0.0
+29,Pacific,33,0,0.0
+30,Simtek,32,0,0.0
+31,Team Lotus,405,44,10.9
+32,Larrousse,126,0,0.0
+33,Brabham,315,6,1.9
+34,Dallara,79,0,0.0
+35,March,194,3,1.5
+36,Fondmetal,24,0,0.0
+37,Lambo,16,0,0.0
+38,AGS,84,0,0.0
+39,Leyton House,32,0,0.0
+40,Coloni,70,0,0.0
+41,Euro Brun,48,0,0.0
+42,Osella,172,0,0.0
+43,Onyx,32,0,0.0
+44,Life,16,0,0.0
+45,Mercedes,213,127,59.6
+46,Lotus,38,0,0.0
+47,HRT,56,0,0.0
+48,Virgin,38,0,0.0
+49,Rial,32,0,0.0
+50,Zakspeed,79,0,0.0
+51,RAM,47,0,0.0
+52,Alfa Romeo,149,0,0.0
+53,Spirit,39,0,0.0
+54,Toleman,72,0,0.0
+55,ATS,116,0,0.0
+56,Theodore,62,0,0.0
+57,Fittipaldi,123,0,0.0
+58,Ensign,138,0,0.0
+59,Shadow,106,0,0.0
+60,Wolf,64,1,1.6
+61,Brabham-Alfa Romeo,31,0,0.0
+62,Merzario,31,0,0.0
+63,Kauhsen,11,0,0.0
+64,Rebaque,3,0,0.0
+65,Brabham-Ford,47,0,0.0
+66,Surtees,121,0,0.0
+67,Hesketh,71,0,0.0
+68,Martini,14,0,0.0
+69,BRM,231,14,6.1
+70,Penske,46,0,0.0
+71,LEC,13,0,0.0
+72,McGuire,8,0,0.0
+73,Boro,17,0,0.0
+74,Apollon,4,0,0.0
+75,Kojima,2,0,0.0
+76,Parnelli,31,0,0.0
+77,Maki,14,0,0.0
+78,Shadow-Ford,14,0,0.0
+79,Embassy Hill,12,0,0.0
+80,Lyncar,11,0,0.0
+81,Shadow-Matra,3,0,0.0
+82,Iso Marlboro,30,0,0.0
+83,Trojan,12,0,0.0
+84,Amon,12,0,0.0
+85,Token,11,0,0.0
+86,Tecno,19,0,0.0
+87,Matra,56,0,0.0
+88,Politoys,6,0,0.0
+89,Connew,4,0,0.0
+90,Lotus-Ford,54,12,22.2
+91,March-Ford,11,0,0.0
+92,March-Alfa Romeo,11,0,0.0
+93,Lotus-Pratt &amp; Whitney,8,0,0.0
+94,Bellasi,12,0,0.0
+95,McLaren-Ford,46,0,0.0
+96,De Tomaso,26,0,0.0
+97,McLaren-Alfa Romeo,12,0,0.0
+98,Matra-Ford,23,11,47.8
+99,Brabham-Repco,43,16,37.2
+100,Cooper-Maserati,82,1,1.2
+101,BRM-Ford,5,0,0.0
+102,Brabham-Climax,55,0,0.0
+103,McLaren-BRM,22,0,0.0
+104,Eagle-Weslake,25,0,0.0
+105,LDS,14,0,0.0
+106,Cooper-Climax,89,20,22.5
+107,Cooper-BRM,12,0,0.0
+108,LDS-Climax,21,0,0.0
+109,Lotus-BRM,58,0,0.0
+110,Eagle-Climax,19,0,0.0
+111,Lotus-Climax,66,23,34.8
+112,Cooper-ATS,6,0,0.0
+113,Protos,5,0,0.0
+114,Brabham-BRM,28,0,0.0
+115,McLaren-Serenissima,8,0,0.0
+116,Cooper-Ferrari,6,0,0.0
+117,Shannon,6,0,0.0
+118,LDS-Alfa Romeo,10,0,0.0
+119,Cooper-Ford,10,0,0.0
+120,RE,10,0,0.0
+121,BRP,19,0,0.0
+122,Scirocco,20,0,0.0
+123,Porsche,56,0,0.0
+124,Derrington,3,0,0.0
+125,Gilby,15,0,0.0
+126,Lotus-Borgward,8,0,0.0
+127,De Tomaso-Ferrari,4,0,0.0
+128,Lotus-Maserati,6,0,0.0
+129,Stebro,3,0,0.0
+130,Emeryson,17,0,0.0
+131,De Tomaso-Alfa Romeo,10,0,0.0
+132,Cooper,17,4,23.5
+133,ENB,4,0,0.0
+134,De Tomaso-Osca,8,0,0.0
+135,Cooper-Alfa Romeo,1,0,0.0
+136,JBW,19,0,0.0
+137,MBM,3,0,0.0
+138,Behra-Porsche,10,0,0.0
+139,Maserati,30,0,0.0
+140,Scarab,9,0,0.0
+141,Cooper-Castellotti,9,0,0.0
+142,Aston Martin,14,0,0.0
+143,Vanwall,20,3,15.0
+144,Cooper-Borgward,5,0,0.0
+145,Fry,5,0,0.0
+146,Kurtis Kraft,1,0,0.0
+147,Cooper-OSCA,1,0,0.0
+148,Tec-Mec,1,0,0.0
+149,Connaught,11,0,0.0
+150,OSCA,10,0,0.0
+151,Lotus F1,77,0,0.0
+152,Marussia,58,0,0.0
+153,Caterham,58,0,0.0
+154,Manor Marussia,39,0,0.0
+155,Haas F1 Team,98,0,0.0
+156,Racing Point,36,0,0.0
+157,AlphaTauri,15,0,0.0
